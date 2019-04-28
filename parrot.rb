@@ -6,3 +6,5 @@ def parrot(phr="Squawk!")
 end
 
 returns phr
+
+parrot()
