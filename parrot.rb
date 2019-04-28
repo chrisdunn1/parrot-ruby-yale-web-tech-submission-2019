@@ -8,5 +8,3 @@ end
 
 parrot("Hi")
 parrot()
-
-
