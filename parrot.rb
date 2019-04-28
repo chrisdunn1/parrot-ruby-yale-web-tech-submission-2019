@@ -5,6 +5,4 @@ def parrot(phr="Squawk!")
   phr
 end
 
-returns phr
-
 parrot()
