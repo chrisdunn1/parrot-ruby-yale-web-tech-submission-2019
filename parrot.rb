@@ -7,5 +7,4 @@ end
 
 return phrase
 
-parrot("Hi")
-parrot()
+
