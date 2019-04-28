@@ -3,8 +3,9 @@
 
 def parrot(phr="Squawk!")
   phr
-  return phr
 end
+
+return phr
 
 parrot("Hi")
 parrot()
