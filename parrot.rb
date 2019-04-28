@@ -5,4 +5,5 @@ def parrot(phr="Squawk!")
   phr
 end
 
+parrot("Hi")
 parrot()
