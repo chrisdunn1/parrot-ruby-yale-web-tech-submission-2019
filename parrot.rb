@@ -3,7 +3,6 @@
 
 def parrot(phr="Squawk!")
   phr
-end 
+end
 
 returns phr
-
